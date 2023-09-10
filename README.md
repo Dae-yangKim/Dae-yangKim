@@ -5,4 +5,4 @@
 ---
 
 ## Hi! I'm Daeyang Kim
-<img src = "https://media.giphy.com/media/qy0iwNjQaU5OM/giphy.gif" width = "150" />
+<img src = "https://media.giphy.com/media/qy0iwNjQaU5OM/giphy.gif" width = "70" />
