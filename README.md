@@ -4,4 +4,4 @@
 
 ---
 
-## Hi! I'm Daeyang Kim <img src = "/Users/kengohirano/Downloads/hello.png" />
+## Hi! I'm Daeyang Kim <img src = "https://giphy.com/gifs/qy0iwNjQaU5OM" width = "30" />
