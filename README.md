@@ -4,4 +4,4 @@
 
 ---
 
-## Hi! I'm Daeyang Kim <img src = "https://giphy.com/gifs/qy0iwNjQaU5OM" width = "30" />
+## Hi! I'm Daeyang Kim <img src = "https://media.giphy.com/media/qy0iwNjQaU5OM/giphy.gif" width = "30" />
