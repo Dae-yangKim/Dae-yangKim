@@ -22,4 +22,6 @@ I want to work as a data scientist in the future , so I would like to record my 
 ### 🛠️Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="Python" width="40" height="40"/>&nbsp;
+  
 </div>
