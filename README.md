@@ -12,9 +12,9 @@ I want to work as a data scientist in the future , so I would like to record my 
 
 ### Current Activities
 
-  1. BigData Competition
-  2. K-Digital
-  3. Personal Project
-  4. Lab Project
+  - 1. BigData Competition
+  - 2. K-Digital
+  - 3. Personal Project
+  - 4. Lab Project
 
 --- 
