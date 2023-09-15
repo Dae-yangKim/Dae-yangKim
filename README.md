@@ -48,3 +48,9 @@ I want to work as a data scientist in the future , so I would like to record my 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dae-yangKim&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dae-yangKim&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🤖Online Judge:
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akswhr123)](https://solved.ac/akswhr123/)  
