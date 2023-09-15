@@ -12,11 +12,11 @@ I want to work as a data scientist in the future , so I would like to record my 
 
 ### Current Activities
 
-  - 1. BigData Competition
-  - 2. K-Digital
-  - 3. Personal Project
-  - 4. Lab Project
+  - BigData Competition
+  - K-Digital
+  - Personal Project
+  - Lab Project
 
 --- 
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️Languages and Tools :
