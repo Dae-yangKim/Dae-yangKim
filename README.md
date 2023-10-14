@@ -56,6 +56,4 @@ I want to work as a data scientist in the future , so I would like to record my 
 
 ---
 
-### 😎My Blog:
-
-[kenken01.velog](https://velog.io/@kenken01)
+### [😎My Blog](https://velog.io/@kenken01)
