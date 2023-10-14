@@ -53,3 +53,9 @@ I want to work as a data scientist in the future , so I would like to record my 
 ### 🤖Online Judge:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akswhr123)](https://solved.ac/akswhr123/)  
+
+---
+
+### 😎My Blog:
+
+[kenken01.velog](https://velog.io/@kenken01)
