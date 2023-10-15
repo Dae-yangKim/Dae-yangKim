@@ -16,8 +16,7 @@
     <br>
     😎<b>My Blog </b>
     <br>
-    <a href="https://velog.io/@kenken01"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-
+    <a href="https://velog.io/@kenken01"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> </a>
 </div>
 
 ---
@@ -78,10 +77,3 @@ I want to work as a data scientist in the future , so I would like to record my 
 ### 🤖My Commit:
 
 [![DaeyangKim GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dae-yangKim&theme=react-dark)](https://github.com/Dae-yangKim)
-
----
-
-### 😎My Activities:
-
-<a href="https://velog.io/@kenken01"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-
