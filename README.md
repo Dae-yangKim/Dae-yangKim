@@ -9,7 +9,8 @@
 </div>
 
 <div align = "center">
-    ☎️<b>Contact Me : </b> <br>
+    ☎️<b>Contact Me  </b> <br>
+    <br>
     <a href="mailto:daeyangkim124@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
 </div>
 
