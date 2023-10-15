@@ -58,4 +58,10 @@ I want to work as a data scientist in the future , so I would like to record my 
 
 ---
 
+### 🤖My Commit:
+
+[![DaeyangKim GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dae-yangKim&theme=react-dark)](https://github.com/Dae-yangKim)
+
+---
+
 ### [😎My Blog](https://velog.io/@kenken01)
