@@ -8,6 +8,7 @@
   <img src = "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
 </div>
 
+<br>
 <div align = "center">
     ☎️<b>Contact Me  </b> <br>
     <br>
@@ -15,6 +16,7 @@
     <a href="https://www.linkedin.com/in/daeyang-kim-80924a279/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <br>
     😎<b>My Blog </b>
+    <br>
     <a href="https://velog.io/@kenken01"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 </div>
