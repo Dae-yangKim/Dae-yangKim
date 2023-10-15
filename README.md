@@ -8,6 +8,12 @@
   <img src = "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
 </div>
 
+<div align = "center">
+  <pre>
+    ☎️<b>Contact Me : </b> <a href="mailto:daeyangkim124@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
+  </pre>
+</div>
+
 ---
 
 ## Hi! I'm Daeyang Kim
