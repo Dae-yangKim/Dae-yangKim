@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=DaeyangKim%20&fontSize=90&fontColor=#ffffff&fontAlignY=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=DaeyangKim%20&fontSize=90&fontColor=#ffffff)
 
 <div id = "header" align = "center">
   <img src = "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
