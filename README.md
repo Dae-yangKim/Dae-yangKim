@@ -65,6 +65,7 @@ I want to work as a data scientist in the future , so I would like to record my 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dae-yangKim&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://opgc.me/#/users/Dae-yangKim" target="_blank"><img src="https://api.opgc.me/githubs/users/Dae-yangKim/tag/?theme=basic" /></a>
 ---
 
 ### 🤖Online Judge:
