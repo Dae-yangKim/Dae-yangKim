@@ -36,6 +36,11 @@ I want to work as a data scientist in the future , so I would like to record my 
 
 --- 
 
+### Project List
+
+
+---
+
 ### 🛠️Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
