@@ -16,7 +16,6 @@
     <br>
     😎<b>My Blog </b>
     <br>
-    [velog](https://velog.io/@kenken01)
     <a href="https://velog.io/@kenken01"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> </a>
 </div>
 
