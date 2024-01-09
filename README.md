@@ -17,6 +17,8 @@
     😎<b>My Blog </b>
     <br>
     <a href="https://velog.io/@kenken01"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> </a>
+  [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={kenken-nature})](https://github.com/loosie/github-readme-tistory-card)
+
 </div>
 
 ---
