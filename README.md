@@ -27,16 +27,13 @@
 I'm currently majoring in AI software in Korea.🎲  
 I want to work as a data scientist in the future , so I would like to record my activities here.😎
 
-### Current Activities
-
-  - BigData Competition
-  - K-Digital
-  - Personal Project
-  - Lab Project
-
 --- 
 
 ### Project List
+
+| Project Logo | Project Link | Summary |
+| :---: | :---: | :---: |
+| <img src="https://github.com/Dae-yangKim/SW_Project/assets/102850893/356c0f13-0d83-405e-8e7f-7a8f4d3bdea7" width=150 height=150> | [https://github.com/Dae-yangKim/GCI_finalHW](https://github.com/Dae-yangKim/GCI_finalHW) | This project is analyze the IBM HR Data and provide solution for  |
 
 
 ---
