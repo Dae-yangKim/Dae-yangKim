@@ -17,6 +17,11 @@
     😎<b>My Blog </b>
     <br>
     <a href="https://velog.io/@kenken01"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> </a>
+    <a href="https://kenken-nature.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=kenken-nature"></a>
+    <br>
+    📑<b>My Portfolio </b>
+    <br>
+    <a href="https://www.notion.so/Daeyang-Kim-150908cfe0c342569b06d81c6b9a73c3?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 </div>
 
 ---
