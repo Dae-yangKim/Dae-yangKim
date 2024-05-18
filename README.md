@@ -26,7 +26,7 @@
 
 ---
 
-## Hi! I'm Daeyang Kim
+## Hi! I'm Daeyang Kim 🌊🌙
 <img src = "https://media.giphy.com/media/qy0iwNjQaU5OM/giphy.gif" width = "150" />
 
 I'm currently majoring in AI software in Korea.🎲  
